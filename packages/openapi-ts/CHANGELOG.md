@@ -1,5 +1,13 @@
 # @hey-api/openapi-ts
 
+## 0.80.6
+
+### Patch Changes
+
+- [#2399](https://github.com/hey-api/openapi-ts/pull/2399) [`ef32c27`](https://github.com/hey-api/openapi-ts/commit/ef32c27a147c85216773ac1fb392363034f23fd1) Thanks [@ahmedrowaihi](https://github.com/ahmedrowaihi)! - feat(tanstack-query): support generating `meta` fields
+
+- [#2407](https://github.com/hey-api/openapi-ts/pull/2407) [`9704055`](https://github.com/hey-api/openapi-ts/commit/970405534e26ddebaaaed71e2a7a242e005ca44e) Thanks [@flow96](https://github.com/flow96)! - fix(sdk): prevent infinite loop when a schema tag matches operation ID
+
 ## 0.80.5
 
 ### Patch Changes
